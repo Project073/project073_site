@@ -44,7 +44,6 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('Welkom', '/'),
     ('Chat', '/chat.html'),
     ('Discussielijsten', '/lists.html'),
     ('Nieuws', '/category/news.html'),
