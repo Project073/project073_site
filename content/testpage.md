@@ -1,10 +1,10 @@
 Title: Project073
 Date: 2015-05-07 18:10
-Modified: 2015-05-08 00:24
-Category: Project073
-Tags: project073
-Slug: my-super-post
-Authors: Project073
+Modified: 2015-05-08 09:07
+Category: News
+Tags: Pelican
+Slug: wat
+Authors: Roel Jansen
 Summary: This is our main website.
 
 This is our new website. 12345
