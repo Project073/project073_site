@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Amsterdam'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'nl'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -41,5 +41,6 @@ DEFAULT_PAGINATION = False
 #CUSTOM_LICENSE = 'Copyright by Project073'
 
 #install via pelican-themes (automated via Ansible)
-THEME="hyde"
+#THEME="hyde"
+THEME="gum"
 
