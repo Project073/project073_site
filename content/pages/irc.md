@@ -4,6 +4,8 @@ Category: Chat
 Tags: IRC, Chat
 Slug: chat
 Authors: Roel Jansen
+Url: chat.html
+Save_As: chat.html
 Summary: Chat met bezoekers van Project073
 
 # IRC

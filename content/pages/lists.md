@@ -1,5 +1,5 @@
 Title: Discussielijsten
-Url: pages/lists.html
+Url: lists.html
 Save_As: lists.html
 Date: 2015-05-08 18:10
 Authors: Roel Jansen
