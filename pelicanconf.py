@@ -51,6 +51,12 @@ MENUITEMS = (
 
 #install via pelican-themes (automated via Ansible)
 #THEME="hyde"
-THEME="gum"
+#THEME="gum" <-- ok-ish
 #THEME="tuxlife_zf"
+#THEME="nice-blog" <- is quite nice!
+
+#very nice!
+THEME="voidy-bootstrap"
+#hide stuff to end-user
+SKIP_COLOPHON = True
 
