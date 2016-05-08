@@ -7,7 +7,7 @@ Summary: Project073 is een lokaal initiatief in omgeving Den Bosch, om kunst, cu
 
 Project073 is een lokaal initiatief in omgeving Den Bosch om kunst, cultuur en technologie te laten samensmelten tot een gezellige community.
 
-# Activiteiten
+## Activiteiten
 
 Op het moment houdt Project073 zich bezig met de volgende projecten om mensen te verbinden en kennis te delen:
 
