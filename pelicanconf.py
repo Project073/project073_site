@@ -38,5 +38,8 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-CUSTOM_LICENSE = 'Copyright by Project073'
+#CUSTOM_LICENSE = 'Copyright by Project073'
+
+#install via pelican-themes (automated via Ansible)
+THEME="hyde"
 
