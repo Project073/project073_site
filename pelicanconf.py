@@ -55,6 +55,6 @@ DISPLAY_CATEGORIES_ON_MENU = True
 
 #install via pelican-themes (automated via Ansible)
 #THEME="hyde"
-#THEME="gum"
-THEME="tuxlife-zf"
+THEME="gum"
+#THEME="tuxlife_zf"
 
