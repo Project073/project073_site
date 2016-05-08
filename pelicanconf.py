@@ -42,16 +42,14 @@ DEFAULT_PAGINATION = False
 
 #DISPLAY_PAGES_ON_MENU = False
 
-DISPLAY_CATEGORIES_ON_MENU = True
+#DISPLAY_CATEGORIES_ON_MENU = True
 
-#MENUITEMS = (
-#    ('Home', '/'),
-#    ('', '/pages/about.html'),
-#    ('JOURNAL', '/category/journal.html'),
-#    ('CONTACT', '/pages/contact.html'),
-#)
-
-
+MENUITEMS = (
+    ('Welkom', '/'),
+    ('Chat', '/chat.html'),
+    ('Discussielijsten', '/lists.html'),
+    ('Nieuws', '/category/news.html'),
+)
 
 #install via pelican-themes (automated via Ansible)
 #THEME="hyde"
