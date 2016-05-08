@@ -1,8 +1,8 @@
-Title: Chat met Project073
-Date: 2015-05-08 18:10
-Category: Chat
-Tags: IRC, Chat
-Slug: chat
+Title: Welkom
+Date: 2015-05-08 09:25
+Category: Home
+Url:
+Save_As: index.html
 Authors: Roel Jansen
 Summary: Chat met bezoekers van Project073
 
