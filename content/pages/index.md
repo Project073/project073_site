@@ -1,6 +1,5 @@
-Title: Welkom
+Title: Home
 Date: 2015-05-08 09:25
-Category: Home
 Url: ''
 Save_As: index.html
 Authors: Roel Jansen
