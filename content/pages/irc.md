@@ -3,8 +3,6 @@ Date: 2015-05-08 18:10
 Category: Chat
 Tags: IRC, Chat
 Slug: chat
-Url_Not: irc.html
-Save_As: irc.html
 Authors: Roel Jansen
 Summary: Chat met bezoekers van Project073
 
