@@ -25,8 +25,9 @@ AUTHOR_FEED_RSS = None
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
 
-LINKS = (('Maillist', 'http://lists.project073.nl/cgi-bin/mailman/listinfo/project073_general'),
-         )
+#LINKS = (('Maillist', 'http://lists.project073.nl/cgi-bin/mailman/listinfo/project073_general'),
+#         )
+#use the 'lists.md'
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
