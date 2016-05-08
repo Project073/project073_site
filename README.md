@@ -28,7 +28,7 @@ To view your local changes:
     make html
     make serve
 
-Now you can browse to [browse to localhost:8000](http://localhost:8000) to
+Now you can [browse to localhost:8000](http://localhost:8000) to
    view the website.
 
 
