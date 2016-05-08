@@ -11,7 +11,7 @@ Summary: Chat met bezoekers van Project073
 IRC is een oud en veelgebruikt chatprotocol. Hier kan je, buiten de
    discussielijsten, individuele deelnemers bereiken.
 
-#Project073 op [FreeNode](http://freenode.net) is ons kanaal.
+`#Project073` op [FreeNode](http://freenode.net) is ons kanaal.
 
 # IRC Client
 
