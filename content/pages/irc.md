@@ -8,8 +8,8 @@ Summary: Chat met bezoekers van Project073
 
 # IRC
 
-IRC is een oud en veelgebruikt chatprotocol. Hier kan je, buiten de
-   discussielijsten, individuele deelnemers bereiken.
+IRC is een oud en veelgebruikte [internet standaard](https://tools.ietf.org/html/rfc1459).
+   Hier kan je, buiten de discussielijsten, individuele deelnemers bereiken.
 
 `#Project073` op [FreeNode](http://freenode.net) is ons kanaal.
 
