@@ -4,18 +4,16 @@ Category: Home
 Url:
 Save_As: index.html
 Authors: Roel Jansen
-Summary: Chat met bezoekers van Project073
+Summary: Project073 is een lokaal initiatief in omgeving Den Bosch, om kunst, cultuur en technologie te laten samensmelten tot een gezellige community.
 
-# IRC
+Project073 is een lokaal initiatief in omgeving Den Bosch om kunst, cultuur en technologie te laten samensmelten tot een gezellige community.
 
-IRC is een oud en veelgebruikt chatprotocol. Hier kan je, buiten de
-   discussielijsten, individuele deelnemers bereiken.
+# Activiteiten
 
-`#Project073` op [FreeNode](http://freenode.net) is ons kanaal.
+Op het moment houdt Project073 zich bezig met de volgende projecten om mensen te verbinden en kennis te delen:
 
-# IRC Client
-
-Draai een *NIX `screen` met daarin `irssi`, en maak gebruik van de
-   screen detach (ctrl+a d) / reattach mogelijkheid (`screen -r`, optioneel
-   met `-x` voor extend). IRC is vaak slow-chat. Blijf verbonden en wacht (dagen) op antwoord.
+* [Den Bosch LUG, de Bossche Linux Users Group](http://lug.project073.nl)
+  De Linux User Group organiseert een maandelijkse bijeenkomst op de *eerste woensdag* van de maand om 20u. Op deze bijeenkomsten
+   worden (meestal) presentaties gegeven over wisselende linux (en soms tech gerelateerde) onderwerpen. Iedereen is
+   welkom, en toegang is gratis!
 
