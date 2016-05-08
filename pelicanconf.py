@@ -40,6 +40,17 @@ DEFAULT_PAGINATION = False
 
 #CUSTOM_LICENSE = 'Copyright by Project073'
 
+#DISPLAY_PAGES_ON_MENU = False
+#DISPLAY_CATEGORIES_ON_MENU = False
+#MENUITEMS = (
+#    ('Home', '/'),
+#    ('', '/pages/about.html'),
+#    ('JOURNAL', '/category/journal.html'),
+#    ('CONTACT', '/pages/contact.html'),
+#)
+
+
+
 #install via pelican-themes (automated via Ansible)
 #THEME="hyde"
 THEME="gum"

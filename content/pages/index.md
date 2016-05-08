@@ -1,6 +1,6 @@
 Title: Home
 Date: 2015-05-08 09:25
-Url: ''
+Url: 
 Save_As: index.html
 Authors: Roel Jansen
 Summary: Project073 is een lokaal initiatief in omgeving Den Bosch, om kunst, cultuur en technologie te laten samensmelten tot een gezellige community.
