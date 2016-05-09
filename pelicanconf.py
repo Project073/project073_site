@@ -61,6 +61,6 @@ THEME="voidy-bootstrap"
 #hide stuff to end-user
 SKIP_COLOPHON = True
 #csp issues with varnish. do local only for now
-SKIP_DEFAULT_CSS = True
-SKIP_DEFAULT_JS = True
+#SKIP_DEFAULT_CSS = True
+#SKIP_DEFAULT_JS = True
 
