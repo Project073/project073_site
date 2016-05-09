@@ -56,8 +56,11 @@ MENUITEMS = (
 #THEME="nice-blog" <- is quite nice!
 
 #very nice!
+
 THEME="voidy-bootstrap"
 #hide stuff to end-user
 SKIP_COLOPHON = True
 #csp issues with varnish. do local only for now
 SKIP_DEFAULT_CSS = True
+
+
